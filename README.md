@@ -1,5 +1,5 @@
 # TicTacToe
-Classic Browser TicTacToe Game
+Classic Browser TicTacToe Game in HTML5, CSS3 AND Vanilla JavaScript
 
 Made using concepts in Javascript like : FACTORY FUNCTIONS, MODULE PATTERN & IIFE(Immediately Invoked Function Expression)
 
